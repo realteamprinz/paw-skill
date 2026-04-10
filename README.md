@@ -100,7 +100,7 @@ The first time you feed it data about a pet you've lost is the hardest. After th
 
 ## Part of the Family
 
-- 🐾 **paw.skill** — You are here
+- 🐾 **[paw.skill](https://github.com/realteamprinz/paw-skill) — Core pet distillation (any animal) ← You are here (parent skill)**
 - 🐕 [dog.skill](https://github.com/realteamprinz/dog-skill) — Canine intelligence
 - 🐈 [cat.skill](https://github.com/realteamprinz/cat-skill) — Feline intelligence
 - 🦜 [bird.skill](https://github.com/realteamprinz/bird-skill) — Avian intelligence
@@ -108,6 +108,10 @@ The first time you feed it data about a pet you've lost is the hardest. After th
 - 🐴 [horse.skill](https://github.com/realteamprinz/horse-skill) — Equine intelligence
 - 🐍 [snake.skill](https://github.com/realteamprinz/snake-skill) — Reptile intelligence
 - 🐰 [rabbit.skill](https://github.com/realteamprinz/rabbit-skill) — Small mammal intelligence
+
+> All species skills inherit from [paw.skill](https://github.com/realteamprinz/paw-skill) — install paw.skill first for core pet distillation capabilities.
+>
+> Full directory: [awesome-pet-skills](https://github.com/realteamprinz/awesome-pet-skills)
 
 ## License
 
