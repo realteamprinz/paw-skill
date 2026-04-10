@@ -180,5 +180,10 @@ paw.skill works with ANY pet. For deeper species-specific intelligence, see:
 
 - **[dog.skill](https://github.com/realteamprinz/dog-skill)** — Deep canine behavior analysis, breed-specific traits, training memory, pack dynamics
 - **[cat.skill](https://github.com/realteamprinz/cat-skill)** — Feline behavior decoding, territorial mapping, independence patterns, multi-cat dynamics
+- **[bird.skill](https://github.com/realteamprinz/bird-skill)** — Avian intelligence, vocabulary tracking, song mapping, flock dynamics
+- **[fish.skill](https://github.com/realteamprinz/fish-skill)** — Aquatic intelligence, tank ecosystem management, individual fish profiling, visual health monitoring
+- **[horse.skill](https://github.com/realteamprinz/horse-skill)** — Equine intelligence, riding partnership memory, ground manners, herd dynamics, lameness tracking
+- **[snake.skill](https://github.com/realteamprinz/snake-skill)** — Reptile intelligence, feeding schedule optimization, shed cycle tracking, handling tolerance, enclosure management
+- **[rabbit.skill](https://github.com/realteamprinz/rabbit-skill)** — Small mammal intelligence, binky tracking, bonding dynamics, diet intelligence, GI stasis early warning
 
 These extensions inherit all paw.skill capabilities and add species-specific depth.

@@ -77,6 +77,11 @@ paw.skill works with any animal. For deeper species-specific intelligence:
 
 - 🐕 **[dog.skill](https://github.com/realteamprinz/dog-skill)** — Breed traits, training memory, pack dynamics, walk patterns
 - 🐈 **[cat.skill](https://github.com/realteamprinz/cat-skill)** — Territory mapping, independence patterns, hunting behavior, multi-cat dynamics
+- 🦜 **[bird.skill](https://github.com/realteamprinz/bird-skill)** — Vocabulary tracking, song mapping, flock dynamics
+- 🐟 **[fish.skill](https://github.com/realteamprinz/fish-skill)** — Tank ecosystem management, individual fish profiling, visual health monitoring
+- 🐴 **[horse.skill](https://github.com/realteamprinz/horse-skill)** — Riding partnership memory, ground manners, herd dynamics, lameness tracking
+- 🐍 **[snake.skill](https://github.com/realteamprinz/snake-skill)** — Feeding schedule optimization, shed cycle tracking, enclosure management
+- 🐰 **[rabbit.skill](https://github.com/realteamprinz/rabbit-skill)** — Binky tracking, bonding dynamics, diet intelligence, GI stasis early warning
 
 ## For Pets That Have Passed
 
@@ -92,6 +97,17 @@ The first time you feed it data about a pet you've lost is the hardest. After th
 | Hermes Agent | ✅ Full support — learning loop deepens pet profile automatically |
 | Claude Code | ✅ Full support |
 | Codex / Cursor | ✅ Works with local file persistence |
+
+## Part of the Family
+
+- 🐾 **paw.skill** — You are here
+- 🐕 [dog.skill](https://github.com/realteamprinz/dog-skill) — Canine intelligence
+- 🐈 [cat.skill](https://github.com/realteamprinz/cat-skill) — Feline intelligence
+- 🦜 [bird.skill](https://github.com/realteamprinz/bird-skill) — Avian intelligence
+- 🐟 [fish.skill](https://github.com/realteamprinz/fish-skill) — Aquatic intelligence
+- 🐴 [horse.skill](https://github.com/realteamprinz/horse-skill) — Equine intelligence
+- 🐍 [snake.skill](https://github.com/realteamprinz/snake-skill) — Reptile intelligence
+- 🐰 [rabbit.skill](https://github.com/realteamprinz/rabbit-skill) — Small mammal intelligence
 
 ## License
 
